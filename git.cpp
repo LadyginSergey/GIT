@@ -11,4 +11,5 @@ int main() {
     std::cout << "Сколько квартир в каждом подъезде? " << collectionorder << "\n";
     std::cout << "-----Считаем-----\n";
     std::cout << " Каждая квартира должна платить по " << totalclientsserved;
+    /*комментарий 1*/
 }
